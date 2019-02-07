@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  color: darkGrey;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+
+h2{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Lato" , sans-sans-serif;
+  }
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+  font-style: normal;
+  font-size: 16px
+}
